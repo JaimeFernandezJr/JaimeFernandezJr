@@ -2,6 +2,8 @@
 JaimeFernandezJr/JaimeFernandezJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Hi, I'm Jaime
+<br>
 # 💫 About Me:
 🚀 I'm currently working on improving my skills<br>🛠️ I'm interested in learning more about DevOps and Cloud Engineering<br>💻 I'm looking for help in exploring new technologies<br>💡 Ask me about any tech-related stuff<br>👋 How to reach me: Email - jfernandezjrtech@gmail.com<br>👦 Pronouns: He/Him<br>🕹️ Hobbies aside from coding: Music, Singing, Playing games<br>
 
