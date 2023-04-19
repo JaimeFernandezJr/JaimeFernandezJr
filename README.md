@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi! I'm Jaime 👋
 # 💫 About Me:
-🚀 I'm currently working on improving my skills<br>🛠️ I'm interested in learning more about DevOps and Cloud Engineering<br>💻 I'm looking for help in exploring new technologies<br>💡 Ask me about any tech-related stuff<br>👋 How to reach me: Email - jfernandezjrtech@gmail.com<br>👦 Pronouns: He/Him<br>🕹️ Hobbies aside from coding: Music, Singing, Playing games<br>
+🚀 I'm currently working on improving my skills<br>🛠️ I'm interested in learning more about DevOps, SRE and Cloud Engineering<br>💻 I'm looking for help in exploring new technologies<br>💡 Ask me about any tech-related stuff<br>👋 How to reach me: Email - jfernandezjrtech@gmail.com<br>👦 Pronouns: He/Him<br>🕹️ Hobbies aside from coding: Music, Singing, Playing games<br>
 
 
 ## 🌐 Socials:
@@ -19,9 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jaimefernandezjr&icon=0&color=0)](https://visitcount.itsvg.in)
