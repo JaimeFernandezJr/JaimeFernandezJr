@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi! I'm Jaime 👋
 # 💫 About Me:
-🚀 I'm currently working on improving my skills<br>🛠️ I'm interested in learning more about DevOps, SRE, Cloud, System Admin, and Infrastructure <br>💻 I'm looking for help in exploring new technologies<br>💡 Ask me about any tech-related stuff<br>👋 How to reach me: Email - jfernandezjrtech@gmail.com<br>👦 Pronouns: He/Him<br>🕹️ Hobbies aside from coding: Music, Singing, Playing games
+ <br>💻 I'm looking for help in exploring new technologies<br>💡 Ask me about any tech-related stuff<br>👋 How to reach me: Email - jfernandezjrtech@gmail.com<br>👦 Pronouns: He/Him<br>🕹️ Hobbies aside from coding: Music, Singing, Playing games
 
 
 ## 🌐 Socials:
